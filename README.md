@@ -10,7 +10,7 @@
 2. Нажми **[Установить Soap](https://raw.githubusercontent.com/DazzleTheShadowPriest/Soap/main/Soap.user.js)**.
 3. Подтверди установку в открывшемся окне Tampermonkey\Violentmonkey.
 4. Открой или обнови [Bubble](https://bubble-web.net/).
-5. В меню под «Настройки» выбери **"Soap"**.
+5. В меню под "Настройки" выбери **"Soap"**.
 
 ## Возможности
 
