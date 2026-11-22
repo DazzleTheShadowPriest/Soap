@@ -2,6 +2,8 @@
 // @name         Soap — расширенный кастомайзер Bubble
 // @namespace    thedoctorcrow/soap
 // @version      1.0
+// @updateURL    https://raw.githubusercontent.com/DazzleTheShadowPriest/Soap/main/Soap.user.js
+// @downloadURL  https://raw.githubusercontent.com/DazzleTheShadowPriest/Soap/main/Soap.user.js
 // @description  Soap она же Мыльница, более расширенный кастомайзер под соц.сеть Bubble. Неограниченные цвета, прозрачность, смена иконок, сохранение своих тем в 5 ячейках, экспорт и импорт, а также поддержка css для более замороченной кастомизации.
 // @author       Dazzle, The Shadow Priest aka TheDoctorCrow
 // @license      MIT
